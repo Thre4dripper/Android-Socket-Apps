@@ -1,0 +1,9 @@
+[submodule "RemoteDesktop-AndroidApp"]
+	path = RemoteDesktop-AndroidApp
+	url = https://github.com/Thre4dripper/RemoteDesktop-AndroidApp
+[submodule "GyroMouse-AndroidApp"]
+	path = GyroMouse-AndroidApp
+	url = https://github.com/Thre4dripper/GyroMouse-AndroidApp
+[submodule "RemoteMouse-AndroidApp"]
+	path = RemoteMouse-AndroidApp
+	url = https://github.com/Thre4dripper/RemoteMouse-AndroidApp
